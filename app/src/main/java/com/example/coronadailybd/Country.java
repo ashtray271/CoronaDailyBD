@@ -130,4 +130,7 @@ public class Country extends AppCompatActivity {
 
 //idont see
 
+
+//war and peace
+
 }
