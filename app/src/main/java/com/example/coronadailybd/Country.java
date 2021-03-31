@@ -128,6 +128,4 @@ public class Country extends AppCompatActivity {
 
 //I want to fork sir
 
-//idont see
-
 }
