@@ -128,9 +128,13 @@ public class Country extends AppCompatActivity {
 
 //I want to fork sir
 
-//idont see
+<<<<<<< HEAD
+    //would you see
+=======
+
 
 
 //war and peace
+>>>>>>> master
 
 }
